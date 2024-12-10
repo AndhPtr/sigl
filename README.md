@@ -30,3 +30,7 @@ php artisan serve--port=8080
 *Hostingan sistem ini menggunakan NGROK maka harus melakukan instalasi ngrok pada device Anda, dan setelah melakukan instalasi maka dapat menjalankan perintah berikut pada terminal
 
 ngrok http 8080
+
+dengan menggunakan ngrok juga dapat digunakan pada perangkat hp
+
+namun masih ada beberapa fitur yang belum dapat terintegrasi seperti penggunaan radius pada penampilan data transaksi dan lain sebagainya
